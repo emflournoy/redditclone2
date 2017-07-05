@@ -1,6 +1,6 @@
 # Reddit Clone With Server
 
-ELIZABETH COMPLETED SURGE: sophisticated-jewel.surge.sh
+ELIZABETH COMPLETED HEROKU: https://elizabethredditclone.herokuapp.com/
 
 
 
